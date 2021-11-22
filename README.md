@@ -13,7 +13,7 @@ This is an NFT preview card component with hover states and responsiveness for a
 
 ## Links
 
-- Live Site URL: [Live Site](https://sanramu93.github.io/memory_game/)
+- Live Site URL: [Live Site](https://sanramu93.github.io/nft_card_component/)
 
 ## Authors
 
